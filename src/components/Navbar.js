@@ -51,7 +51,7 @@ function Navbar() {
 
 <li className="nav-item">
   <NavLink to="/Medical/data/Medicines" className="nav-link">
-    <i className="fas fa-pills"></i> Medicines
+    <i className="fas fa-pills"></i> Medicine
   </NavLink>
 </li>
 
@@ -67,7 +67,7 @@ function Navbar() {
           ) : (
             <li className="nav-item">
               <NavLink to="/Register" className="nav-link">
-                Register
+                Registe
               </NavLink>
             </li>
           )}
